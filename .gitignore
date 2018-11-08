@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+
+# Firebase
+.firebaserc
+firebase.json
+
+plugins/ga.js
+
+todo.txt
